@@ -1,0 +1,8 @@
+{
+  "name": "software-sketchbook",
+  "version": "1.0.0",
+  "description": "Software Sketchbook",
+  "main": "index.js",
+  "repository": "https://github.com/erinroby/software-sketchbook.git",
+  "license": "MIT"
+}
